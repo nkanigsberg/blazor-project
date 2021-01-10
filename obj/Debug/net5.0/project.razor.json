@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 358411687,
+        "Kind": "Components.Component",
+        "Name": "blazorProject.Pages.Todo",
+        "AssemblyName": "blazorProject",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorProject.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 626791441,
+        "Kind": "Components.Component",
+        "Name": "blazorProject.Pages.Todo",
+        "AssemblyName": "blazorProject",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorProject.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorProject.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1742927440,
         "Kind": "Components.Component",
         "Name": "blazorProject.Pages.Counter",
@@ -41,39 +74,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazorProject.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1179951013,
-        "Kind": "Components.Component",
-        "Name": "blazorProject.Pages.FetchData",
-        "AssemblyName": "blazorProject",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1217230233,
-        "Kind": "Components.Component",
-        "Name": "blazorProject.Pages.FetchData",
-        "AssemblyName": "blazorProject",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorProject.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,35 +111,68 @@
         }
       },
       {
-        "HashCode": 170185079,
+        "HashCode": -1179951013,
         "Kind": "Components.Component",
-        "Name": "blazorProject.App",
+        "Name": "blazorProject.Pages.FetchData",
         "AssemblyName": "blazorProject",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.App"
+          "Common.TypeName": "blazorProject.Pages.FetchData"
         }
       },
       {
-        "HashCode": 1908924913,
+        "HashCode": 1217230233,
         "Kind": "Components.Component",
-        "Name": "blazorProject.App",
+        "Name": "blazorProject.Pages.FetchData",
         "AssemblyName": "blazorProject",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorProject.App"
+            "TagName": "blazorProject.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.App",
+          "Common.TypeName": "blazorProject.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1574006028,
+        "Kind": "Components.Component",
+        "Name": "blazorProject.Shared.NavMenu",
+        "AssemblyName": "blazorProject",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorProject.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1485954649,
+        "Kind": "Components.Component",
+        "Name": "blazorProject.Shared.NavMenu",
+        "AssemblyName": "blazorProject",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorProject.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorProject.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,35 +326,35 @@
         }
       },
       {
-        "HashCode": 1574006028,
+        "HashCode": 170185079,
         "Kind": "Components.Component",
-        "Name": "blazorProject.Shared.NavMenu",
+        "Name": "blazorProject.App",
         "AssemblyName": "blazorProject",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.Shared.NavMenu"
+          "Common.TypeName": "blazorProject.App"
         }
       },
       {
-        "HashCode": -1485954649,
+        "HashCode": 1908924913,
         "Kind": "Components.Component",
-        "Name": "blazorProject.Shared.NavMenu",
+        "Name": "blazorProject.App",
         "AssemblyName": "blazorProject",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorProject.Shared.NavMenu"
+            "TagName": "blazorProject.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorProject.Shared.NavMenu",
+          "Common.TypeName": "blazorProject.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15920,6 +15953,11 @@
       "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Shared\\SurveyPrompt.razor",
