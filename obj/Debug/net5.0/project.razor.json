@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\blazorProject.csproj",
+  "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\blazorProject.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15917,54 +15917,54 @@
   "RootNamespace": "blazorProject",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"
