@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\blazorProject.csproj": {}
+    "C:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\blazorProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\blazorProject.csproj": {
+    "C:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\blazorProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\blazorProject.csproj",
+        "projectUniqueName": "C:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\blazorProject.csproj",
         "projectName": "blazorProject",
-        "projectPath": "C:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\blazorProject.csproj",
+        "projectPath": "C:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\blazorProject.csproj",
         "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathan\\Desktop\\Blazor App\\blazorProject\\obj\\",
+        "outputPath": "C:\\Users\\Nathan\\Desktop\\BlazorApps\\blazor-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
